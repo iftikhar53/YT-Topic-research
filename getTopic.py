@@ -31,7 +31,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 keywords = [
 
- "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship",
+ "hoa","Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship",
 
 "Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught",
 
